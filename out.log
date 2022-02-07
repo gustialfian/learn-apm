@@ -1,0 +1,10 @@
+{"@timestamp":"2022-01-29T19:33:18+07:00","level":"debug","message":"handling request","trace.id":"1181ec1218f5f8d7b8b87604fff3f2f4","transaction.id":"1181ec1218f5f8d7"}
+{"@timestamp":"2022-01-29T19:33:18+07:00","level":"info","message":"this is info yoo","trace.id":"1181ec1218f5f8d7b8b87604fff3f2f4","transaction.id":"1181ec1218f5f8d7"}
+{"@timestamp":"2022-01-29T19:33:19+07:00","level":"debug","message":"handling request","trace.id":"8a03b08c4b6d520e3db32999a87d32b2","transaction.id":"8a03b08c4b6d520e"}
+{"@timestamp":"2022-01-29T19:33:19+07:00","level":"info","message":"this is info yoo","trace.id":"8a03b08c4b6d520e3db32999a87d32b2","transaction.id":"8a03b08c4b6d520e"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"debug","message":"handling request","trace.id":"eaf9f17e801f6223796dd586f25704ae","transaction.id":"eaf9f17e801f6223"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"info","message":"this is info yoo","trace.id":"eaf9f17e801f6223796dd586f25704ae","transaction.id":"eaf9f17e801f6223"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"debug","message":"handling request","trace.id":"92f255be5c6490346889691b35eb5dca","transaction.id":"92f255be5c649034"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"info","message":"this is info yoo","trace.id":"92f255be5c6490346889691b35eb5dca","transaction.id":"92f255be5c649034"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"debug","message":"handling request","trace.id":"2b0b02050835c9b4772104844613f988","transaction.id":"2b0b02050835c9b4"}
+{"@timestamp":"2022-01-29T19:33:20+07:00","level":"info","message":"this is info yoo","trace.id":"2b0b02050835c9b4772104844613f988","transaction.id":"2b0b02050835c9b4"}
